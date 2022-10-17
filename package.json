@@ -5,9 +5,12 @@
    "main": "index.js",
    "type": "module",
    "dependencies": {
-      "inquirer": "^9.0.0"
+      "inquirer": "^9.0.0",
+      "minimist": "^1.2.7"
    },
-   "devDependencies": {},
+   "devDependencies" : {
+     "nodemon": "latest"
+   },
    "scripts": {
       "start": "node index.js",
       "dev": "nodemon index.js",
