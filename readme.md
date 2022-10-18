@@ -6,7 +6,8 @@
 To use, just type:
 
 ```js
-npx @ayobamsik/automation [parameters]
+npm i -g @ayobamsik/automation
+npx automation
 ```
 
 

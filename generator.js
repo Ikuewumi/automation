@@ -1,7 +1,7 @@
 export const commands = {
    mkdir: (folder = '') => `mkdir ${folder}`,
 
-   cd: (folder = '') => `cd ${folder}`,
+   cd: (folder = '') => `cd ./${folder}`,
 
    init: `npm init -y`,
 

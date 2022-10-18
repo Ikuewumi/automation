@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 /**@ts-check */
 import inquirer from "inquirer"
 import { addToUserAnswers, handleInputs, switchPaths, switchTypeChoice } from "./functions.js"
@@ -15,5 +17,7 @@ const ask = async () => {
 
 
 }
+
+/**@todo Find out how to get your package to work with npx */
 
 ask()
