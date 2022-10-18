@@ -7,6 +7,10 @@ To use, just type:
 
 ```js
 npm i -g @ayobamsik/automation
+```
+
+then you can use:
+```js
 npx automation
 ```
 
