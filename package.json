@@ -8,6 +8,10 @@
       "inquirer": "^9.0.0",
       "minimist": "^1.2.7"
    },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Ikuewumi/automation"
+   },
    "devDependencies": {
       "nodemon": "latest"
    },
